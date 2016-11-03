@@ -3,6 +3,7 @@ GEM
   specs:
     cairo (1.15.2)
       pkg-config (>= 1.1.5)
+    numo-narray (0.9.0.3)
     pkg-config (1.1.7)
 
 PLATFORMS
@@ -10,6 +11,7 @@ PLATFORMS
 
 DEPENDENCIES
   cairo
+  numo-narray
 
 BUNDLED WITH
    1.12.5
